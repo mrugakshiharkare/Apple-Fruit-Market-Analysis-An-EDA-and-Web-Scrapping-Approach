@@ -17,7 +17,7 @@ The project includes:
 
 This project aims to answer key questions such as:
 ✔ How have Apple product prices changed over time?  
-✔ Which product categories show the highest demand?  
+✔ Which product categories show the highest demand?    
 ✔ What patterns exist in features, pricing, and ratings?   
 ✔ What market trends can be observed across Apple product lines?  
 
