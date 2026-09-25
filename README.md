@@ -81,7 +81,7 @@
 * The **American** variety has the **most stable pricing**, making it a reliable trading option.
 * **Srinagar** market carries the highest profit potential *but also the highest risk* due to unpredictable price swings.
 
-## 🧠 *"`Learnings`**
+## 🧠 **`Learnings`**
 
 - Learned how to work with raw, unstructured data
 - Understood the importance of data cleaning before analysis
